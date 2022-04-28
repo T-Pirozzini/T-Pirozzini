@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/travis-pirozzini-2522b5115/)
+[![https://i.stack.imgur.com/gVE0j.png](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/travis-pirozzini-2522b5115/)
 &nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
