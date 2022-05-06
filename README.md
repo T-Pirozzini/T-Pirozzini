@@ -9,8 +9,8 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m @T-Pirozzini
 - 👀 I’m interested in ... Trail Running, D&D, Lo-fi
-- 🌱 I’m currently learning ... The Odin Project JS Path & UX Design Google Certification 
-- 💞️ I’m looking to collaborate on ... Game Development - Interested in joining me in a GameJam?!?!
+- 🌱 I’m currently learning ... The Odin Project: Javascript Path & UX Design (Google Certification) 
+- 💞️ I’m looking to collaborate in ... Game Development - Interested in joining me in a GameJam?!?!
 - 📫 How to reach me ... tpirozzini@gmail.com
 
 <br>
