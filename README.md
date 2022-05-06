@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-pirozzini&show_icons=true&locale=en&layout=compact" width="40%" alt="t-pirozzini"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=t-pirozzini&show_icons=true&locale=en" width="40%" alt="t-pirozzini" />  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=t-pirozzini&show_icons=true&locale=en" width="55%" alt="t-pirozzini" />  
   
 </p>
 
