@@ -117,9 +117,9 @@ You can click the Preview link to take a look at your changes.
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adobe_Illustrator_CS3_icon_mockup.svg/2048px-Adobe_Illustrator_CS3_icon_mockup.svg.png"
         width="48"
         height="48"
-        alt="ADOBEILLUSTRATOR"
+        alt="ILLUSTRATOR"
       />
-      <br /><strong>Adobe Illustrator</strong>
+      <br /><strong>Illustrator</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -182,9 +182,9 @@ You can click the Preview link to take a look at your changes.
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
         width="48"
         height="48"
-        alt="ADOBE PHOTOSHOP"
+        alt="PHOTOSHOP"
       />
-      <br /><strong>Adobe Photoshop</strong>
+      <br /><strong>Photoshop</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
