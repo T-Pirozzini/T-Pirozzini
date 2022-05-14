@@ -114,7 +114,7 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://www.adobe.com/in/products/illustrator.html"
+        src="https://www.adobe.com/in/products/illustrator.svg"
         width="48"
         height="48"
         alt="ADOBEILLUSTRATOR"
