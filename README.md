@@ -101,6 +101,8 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>Firebase</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -173,6 +175,8 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>NodeJS</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
