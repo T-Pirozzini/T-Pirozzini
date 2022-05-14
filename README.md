@@ -114,7 +114,7 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://www.adobe.com/in/products/illustrator.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adobe_Illustrator_CS3_icon_mockup.svg/2048px-Adobe_Illustrator_CS3_icon_mockup.svg.png"
         width="48"
         height="48"
         alt="ADOBEILLUSTRATOR"
@@ -123,7 +123,7 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adobe_Illustrator_CS3_icon_mockup.svg/2048px-Adobe_Illustrator_CS3_icon_mockup.svg.png"
+        src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
         width="48"
         height="48"
         alt="JEST"
