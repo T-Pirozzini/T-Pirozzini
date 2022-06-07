@@ -272,7 +272,7 @@ You can click the Preview link to take a look at your changes.
   
   <tr>
     <td>Game Development & Design</td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" min-width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adobe_Illustrator_CS3_icon_mockup.svg/2048px-Adobe_Illustrator_CS3_icon_mockup.svg.png"
         width="48"
@@ -281,7 +281,7 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>Illustrator</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" min-width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
         width="48"
@@ -290,7 +290,7 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>Photoshop</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" min-width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/2101px-Adobe_InDesign_CC_icon.svg.png"
         width="48"
@@ -299,7 +299,7 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>InDesign</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" min-width="108">
       <img
         src="https://webforpc.net/wp-content/uploads/2019/12/1200px-Adobe_XD_CC_icon.svg_.png"
         width="48"
@@ -308,7 +308,7 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>AdobeXD</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" min-width="108">
       <img
         src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
         width="48"
@@ -317,7 +317,7 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>Figma</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" min-width="108">
       <img
         src="https://i.imgur.com/4FEZwIp.png"
         width="48"
@@ -326,7 +326,7 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>GameMaker</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" min-width="108">
       <img
         src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
         width="48"
@@ -335,7 +335,7 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>Unity</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" min-width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg"
         width="48"
