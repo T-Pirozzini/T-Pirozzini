@@ -210,7 +210,38 @@ You can click the Preview link to take a look at your changes.
         />
         <br /><strong>mySQL</strong>
       </td>     
-  </tr>  
+  </tr>
+  
+  <tr>
+    <td>Cloud</td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://www.zencos.com/wp-content/uploads/2021/11/aws-logo.png"
+        width="48"
+        height="48"
+        alt="AWS"
+      />
+      <br /><strong>AWS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google-cloud-platform.svg/2048px-Google-cloud-platform.svg.png"
+        width="48"
+        height="48"
+        alt="GCP"
+      />
+      <br /><strong>Google Cloud</strong>
+    </td>
+    <td align="center" height="108" width="108">
+        <img
+          src="https://blogs.vmware.com/cloudprovider/files/2019/04/og-image-8b3e4f7d-blog-aspect-ratio.png"
+          width="48"
+          height="48"
+          alt="TERRAFORM"
+        />
+        <br /><strong>Terraform</strong>
+      </td>
+  </tr>
 
   <tr>
     <td>Testing</td>
