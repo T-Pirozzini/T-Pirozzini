@@ -234,7 +234,7 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" height="108" width="108">
         <img
-          src="https://blogs.vmware.com/cloudprovider/files/2019/04/og-image-8b3e4f7d-blog-aspect-ratio.png"
+          src="https://gitlab.com/uploads/-/system/project/avatar/14379678/terraform.png"
           width="48"
           height="48"
           alt="TERRAFORM"
