@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 # 📈 Stats:
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-pirozzini&langs_count=14&hide=yacc,shell,smarty&show_icons=true&locale=en&layout=compact" width="45%" alt="t-pirozzini"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-pirozzini&langs_count=14&hide=yacc,shell&show_icons=true&locale=en&layout=compact" width="45%" alt="t-pirozzini"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=t-pirozzini&show_icons=true&locale=en" width="50%" alt="t-pirozzini" />  
   
