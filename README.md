@@ -3,24 +3,25 @@ T-Pirozzini/T-Pirozzini is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Travis Pirozzini</h1>
-<h2 align="center">Full-Stack Web Developer</h2>
-<h3 align="center">Specializing in Front-End Development & UX Design</h3>
+<h2 align="center">Full-Stack Developer</h2>
+<h3 align="center">Specializing in Front-End Development, UI/UX Design, Mobile and Game Development</h3>
 
 
 <br>
 
-- 👀 I’m interested in ... Trail Running, D&D, Lo-fi
-- 🌱 I’m currently learning ... The Odin Project: Javascript Path & UX Design (Google Certification) 
-- 💞️ I’m looking to collaborate in ... Game Development - Interested in joining me in a GameJam?!?!
-- 📫 How to reach me ... tpirozzini@gmail.com
+- 👀 I’m interested in Trail Running, Dungeons & Dragons and Lo-fi
+- 🎓 I completed a Diploma in Web Development, obtained a Certificate in UI/UX Design, and competed in two GameJams this year
+- 🌱 My focus is Mobile Development(Flutter) with Firebase. I recently distributed an application on the Appstore and Google Play 
+- 💞️ I’m looking to collaborate with others in Game Development - Interested in joining me in a GameJam?!?! Send me a message
+- 📫 How to reach me: tpirozzini@gmail.com
 
 <br>
 
 # 📈 Stats:
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-pirozzini&langs_count=14&hide=yacc,cmake&show_icons=true&locale=en&layout=compact" width="45%" alt="t-pirozzini"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-pirozzini&langs_count=14&hide=yacc,cmake,ruby,scss,ejs,hcl,c,shell&show_icons=true&locale=en&layout=compact" width="50%" alt="t-pirozzini"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=t-pirozzini&show_icons=true&locale=en" width="50%" alt="t-pirozzini" />  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=t-pirozzini&show_icons=true&locale=en" width="45%" alt="t-pirozzini" />  
   
 </p>
 
@@ -69,12 +70,12 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
+        src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png"
         width="48"
         height="48"
-        alt="RUBY"
+        alt="DART"
       />
-      <br /><strong>Ruby</strong>
+      <br /><strong>Dart</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -97,7 +98,34 @@ You can click the Preview link to take a look at your changes.
   </tr>
     
   <tr>
-    <td>Frameworks & Libraries</td>
+    <td>Frameworks & Libraries</td>    
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="REACT"
+      />
+      <br /><strong>React</strong>
+    </td>    
+    <td align="center" height="108" width="108">
+      <img
+        src="https://remix.run/img/og.1.jpg"
+        width="48"
+        height="48"
+        alt="REMIX"
+      />
+      <br /><strong>Remix</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+        width="48"
+        height="48"
+        alt="TAILWIND"
+      />
+      <br /><strong>Tailwind</strong>
+    </td> 
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"
@@ -115,62 +143,8 @@ You can click the Preview link to take a look at your changes.
         alt="EXPRESS"
       />
       <br /><strong>Express</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.iconscout.com/icon/free/png-256/rails-3521664-2945108.png"
-        width="48"
-        height="48"
-        alt="RAILS"
-      />
-      <br /><strong>Rails</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="REACT"
-      />
-      <br /><strong>React</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-        width="48"
-        height="48"
-        alt="SASS"
-      />
-      <br /><strong>SASS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://i.dlpng.com/static/png/7044160_preview.png"
-        width="48"
-        height="48"
-        alt="JQUERY"
-      />
-      <br /><strong>jQuery</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://pbs.twimg.com/profile_images/833789473376854018/skScegH6_400x400.jpg"
-        width="48"
-        height="48"
-        alt="EJS"
-      />
-      <br /><strong>EJS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-        width="48"
-        height="48"
-        alt="BABEL"
-      />
-      <br /><strong>Babel</strong>
-    </td>
-  </tr>
+    </td>    
+    
    
   <tr>
     <td>Databases</td>
@@ -182,6 +156,15 @@ You can click the Preview link to take a look at your changes.
         alt="FIREBASE"
       />
       <br /><strong>Firebase</strong>
+    </td>     
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/supabase-TAiY.png"
+        width="48"
+        height="48"
+        alt="SUPABASE"
+      />
+      <br /><strong>Supabase</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -211,6 +194,46 @@ You can click the Preview link to take a look at your changes.
         <br /><strong>mySQL</strong>
       </td>     
   </tr>
+  <tr>
+    <td>Mobile Development</td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png"
+        width="48"
+        height="48"
+        alt="FLUTTER"
+      />
+      <br /><strong>Flutter</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://camo.githubusercontent.com/9a45407f0a2a0c52f76b9458728049eca3ddb60ecec92a43f8cd2af93d253940/68747470733a2f2f7061676570726f2e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30332f72656163742d6e61746976652d6c6f676f2d333234783337352e706e67"
+        width="48"
+        height="48"
+        alt="REACT NATIVE"
+      />
+      <br /><strong>React Native</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn-icons-png.flaticon.com/512/732/732208.png"
+        width="48"
+        height="48"
+        alt="GOOGLE PLAY"
+      />
+      <br /><strong>Play Store</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.apple.com/v/app-store/b/images/overview/icon_appstore__ev0z770zyxoy_large_2x.png"
+        width="48"
+        height="48"
+        alt="APPSTORE"
+      />
+      <br /><strong>App Store</strong>
+    </td>
+  </tr>
+  
   
   <tr>
     <td>Cloud</td>
@@ -332,7 +355,7 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" height="108" min-width="108">
       <img
-        src="https://webforpc.net/wp-content/uploads/2019/12/1200px-Adobe_XD_CC_icon.svg_.png"
+        src="https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw"
         width="48"
         height="48"
         alt="XD"
@@ -379,7 +402,7 @@ You can click the Preview link to take a look at your changes.
   
   <tr>
     <td>Version Control etc.</td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" min-width="108">
       <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
         width="48"
@@ -388,7 +411,7 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>Git</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" min-width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
         width="48"
@@ -397,7 +420,7 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>Linux</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" min-width="108">
       <img
         src="https://www.lindenwood.edu/files/resources/xcomptia-aplus-logo.png.pagespeed.ic.51sgZQp_Qo.png"
         width="48"
