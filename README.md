@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in Trail Running, Dungeons & Dragons and Lo-fi
 - 🎓 I completed a Diploma in Web Development, obtained a Certificate in UI/UX Design, and competed in two GameJams this year
-- 🌱 My focus is Mobile Development(Flutter) with Firebase. I recently distributed an application on the Appstore and Google Play 
+- 🌱 I'm focused on Mobile Development(Flutter) with Firebase. I recently distributed an application to the Appstore and Google Play 
 - 💞️ I’m looking to collaborate with others in Game Development - Interested in joining me in a GameJam?!?! Send me a message
 - 📫 How to reach me: tpirozzini@gmail.com
 
