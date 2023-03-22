@@ -117,6 +117,15 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>Remix</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
+        width="48"
+        height="48"
+        alt="NEXT"
+      />
+      <br /><strong>Next.js</strong>
+    </td>
      <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
