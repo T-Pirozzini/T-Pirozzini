@@ -10,24 +10,25 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 - 👀 I’m interested in Trail Running, Dungeons & Dragons and Lo-fi
-- 🎓 I completed a Diploma in Web Development, obtained a Certificate in UI/UX Design, and competed in two GameJams this year
-- 🌱 I'm focused on Mobile Development(Flutter) with Firebase. I recently distributed an application to the Appstore and Google Play 
-- 💞️ I’m looking to collaborate with others in Game Development - Interested in joining me in a GameJam?!?! Send me a message
-- 📫 How to reach me: tpirozzini@gmail.com
+- 🎓 I completed a Diploma in Web Development, obtained a Certificate in UI/UX Design, and competed in two GameJams in 2022
+- 🌱 I'm focused on Mobile Development(Flutter) with Firebase. I build custom apps to help small businesses thrive
+- 🌟 I also build mobile apps for fun! Check out my latest projects - available for download on iOS and Android
+- 💞️ I’m looking to collaborate with others in another GameJam - let's use Unity! Interested? Send me a message!
+- 📫 How to reach me: tpirozzini@gmail.com or message me on LinkedIn
 
 <br>
 
 # 📈 Stats:
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-pirozzini&langs_count=14&hide=yacc,cmake,ruby,scss,ejs,hcl,c,c%23,shell&show_icons=true&locale=en&layout=compact" width="50%" alt="t-pirozzini"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-pirozzini&langs_count=14&hide=yacc,cmake,ruby,scss,ejs,hcl,c,c%23,shell&show_icons=true&locale=en&layout=compact" width="80%" alt="t-pirozzini"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=t-pirozzini&show_icons=true&locale=en" width="45%" alt="t-pirozzini" />  
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=t-pirozzini&show_icons=true&locale=en" width="45%" alt="t-pirozzini" /> -->
   
 </p>
 
 <br>
 
-# :computer: Technologies & Tools:
+# :computer: ⚡️My Top⚡️ Technologies & Tools:
 
 <table>  
   <tr>
@@ -77,7 +78,7 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>Dart</strong>
     </td>
-    <td align="center" height="108" width="108">
+<!--     <td align="center" height="108" width="108">
       <img
         src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
         width="48"
@@ -95,7 +96,7 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>SQL</strong>
     </td>
-  </tr>
+  </tr> -->
     
   <tr>
     <td>Frameworks & Libraries</td>    
@@ -144,7 +145,7 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>NodeJS</strong>
     </td>
-    <td align="center" height="108" width="108">
+<!--     <td align="center" height="108" width="108">
       <img
         src="https://jsurt.github.io/jacks-portfolio/images/color-express-icon%20(1).png"
         width="48"
@@ -152,7 +153,7 @@ You can click the Preview link to take a look at your changes.
         alt="EXPRESS"
       />
       <br /><strong>Express</strong>
-    </td>    
+    </td>     -->
     
    
   <tr>
@@ -275,7 +276,7 @@ You can click the Preview link to take a look at your changes.
       </td>
   </tr>
 
-  <tr>
+  <!--<tr>
     <td>Testing</td>
     <td align="center" height="108" width="108">
       <img
@@ -331,10 +332,10 @@ You can click the Preview link to take a look at your changes.
       />
       <br /><strong>RSpec</strong>
     </td>
-  </tr>  
+  </tr>  -->
   
   <tr>
-    <td>Game Development & Design</td>
+    <td>Game Dev & Design</td>
     <td align="center" height="108" min-width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adobe_Illustrator_CS3_icon_mockup.svg/2048px-Adobe_Illustrator_CS3_icon_mockup.svg.png"
