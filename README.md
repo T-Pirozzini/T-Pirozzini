@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 # 📈 Stats:
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-pirozzini&langs_count=14&hide=yacc,cmake,ruby,scss,ejs,hcl,c,c%23,shell&show_icons=true&locale=en&layout=compact" width="80%" alt="t-pirozzini"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-pirozzini&langs_count=14&hide=yacc,cmake,ruby,scss,ejs,hcl,c,c%23,shell&show_icons=true&locale=en&layout=compact" width="80%"  height="400" alt="t-pirozzini"/>
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=t-pirozzini&show_icons=true&locale=en" width="45%" alt="t-pirozzini" /> -->
   
@@ -392,7 +392,7 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td align="center" height="108" min-width="108">
       <img
-        src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
+        src="https://user-images.githubusercontent.com/9201005/61173208-81056980-a590-11e9-8211-41f841e9f8ca.png"
         width="48"
         height="48"
         alt="UNITY"
