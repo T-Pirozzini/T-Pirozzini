@@ -3,24 +3,25 @@ T-Pirozzini/T-Pirozzini is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Travis Pirozzini</h1>
-<h2 align="center">Full-Stack Developer</h2>
-<h3 align="center">Specializing in Front-End Development, UI/UX Design, Mobile and Game Development</h3>
+<h2 align="center">Mobile Developer</h2>
+<h3 align="center">Specializing in Cross-Platform Mobile Development & UI/UX Design</h3>
+<h4 align="center">I'm a Full-Stack Web Developer and dabble in Game Development too!</h4>
 
 
 <br>
 
-- 👀 I’m interested in Trail Running, Dungeons & Dragons and Lo-fi
-- 🎓 I completed a Diploma in Web Development, obtained a Certificate in UI/UX Design, and competed in two GameJams in 2022
 - 🌱 I'm focused on Mobile Development(Flutter) with Firebase. I build custom apps to help small businesses thrive
+- 🎓 I completed a Diploma in Web Development, obtained a Certificate in UI/UX Design, and competed in two GameJams in 2022
 - 🌟 I also build mobile apps for fun! Check out my latest projects - available for download on iOS and Android
-- 💞️ I’m looking to collaborate with others in another GameJam - let's use Unity! Interested? Send me a message!
+- 💞️ I’m looking to collaborate with others in another GameJam - let's use Godot! Interested? Send me a message!
+- 👀 I’m interested in Trail Running, Dungeons & Dragons and Lo-fi
 - 📫 How to reach me: tpirozzini@gmail.com or message me on LinkedIn
 
 <br>
 
 # 📈 Stats:
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-pirozzini&langs_count=14&hide=yacc,cmake,ruby,scss,ejs,hcl,c,c%23,shell&show_icons=true&locale=en&layout=compact" width="80%"  height="400" alt="t-pirozzini"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-pirozzini&langs_count=10&hide=yacc,cmake,ruby,scss,ejs,hcl,c,c%23,shell,shaderlab,gap&show_icons=true&locale=en&layout=compact" width="100%"  height="500" alt="t-pirozzini"/>
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=t-pirozzini&show_icons=true&locale=en" width="45%" alt="t-pirozzini" /> -->
   
