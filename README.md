@@ -2,445 +2,133 @@
 T-Pirozzini/T-Pirozzini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Travis Pirozzini</h1>
-<h2 align="center">Mobile Developer</h2>
-<h3 align="center">Specializing in Cross-Platform Mobile Development & UI/UX Design</h3>
-<h4 align="center">I'm a Full-Stack Web Developer and dabble in Game Development too!</h4>
+<h1 align="center">👨‍💻 Travis Pirozzini</h1>
+<h3 align="center">🚀 Mobile Developer | 🎨 UI/UX Designer | 🎮 Game Dev Enthusiast</h3>
 
-
-<br>
-
-- 🌱 I'm focused on Mobile Development(Flutter) with Firebase. I build custom apps to help small businesses thrive
-- 🎓 I completed a Diploma in Web Development, obtained a Certificate in UI/UX Design, and competed in two GameJams in 2022
-- 🌟 I also build mobile apps for fun! Check out my latest projects - available for download on iOS and Android
-- 💞️ I’m looking to collaborate with others in another GameJam - let's use Godot! Interested? Send me a message!
-- 👀 I’m interested in Trail Running, Dungeons & Dragons and Lo-fi
-- 📫 How to reach me: tpirozzini@gmail.com or message me on LinkedIn
-
-<br>
-
-# 📈 Stats:
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-pirozzini&langs_count=10&hide=yacc,cmake,ruby,scss,ejs,hcl,c,c%23,shell,shaderlab,gap&show_icons=true&locale=en&layout=compact" width="100%"  height="500" alt="t-pirozzini"/>
-
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=t-pirozzini&show_icons=true&locale=en" width="45%" alt="t-pirozzini" /> -->
-  
+<p align="center">
+  <!-- Primary Tech Stack -->
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/>
+  </a>
+  <a href="https://react.dev" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white" alt="firebase"/>
+  </a>
+  <a href="https://unity.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="unity"/>
+  </a>
 </p>
 
-<br>
+---
 
-# :computer: ⚡️My Top⚡️ Technologies & Tools:
+### 👋 About Me
 
-<table>  
-  <tr>
-    <td>Languages</td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
-      <br /><strong>HTML</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="CSS"
-      />
-      <br /><strong>CSS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        width="48"
-        height="48"
-        alt="JAVASCRIPT"
-      />
-      <br /><strong>JavaScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://titrias.com/files/2022/04/typescript.png"
-        width="48"
-        height="48"
-        alt="TYPESCRIPT"
-      />
-      <br /><strong>TypeScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png"
-        width="48"
-        height="48"
-        alt="DART"
-      />
-      <br /><strong>Dart</strong>
-    </td>
-<!--     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"
-        width="48"
-        height="48"
-        alt="PYTHON"
-      />
-      <br /><strong>Python</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png"
-        width="48"
-        height="48"
-        alt="SQL"
-      />
-      <br /><strong>SQL</strong>
-    </td>
-  </tr> -->
-    
-  <tr>
-    <td>Frameworks & Libraries</td>    
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="REACT"
-      />
-      <br /><strong>React</strong>
-    </td>    
-    <td align="center" height="108" width="108">
-      <img
-        src="https://remix.run/img/og.1.jpg"
-        width="48"
-        height="48"
-        alt="REMIX"
-      />
-      <br /><strong>Remix</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
-        width="48"
-        height="48"
-        alt="NEXT"
-      />
-      <br /><strong>Next.js</strong>
-    </td>
-     <td align="center" height="108" width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
-        width="48"
-        height="48"
-        alt="TAILWIND"
-      />
-      <br /><strong>Tailwind</strong>
-    </td> 
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"
-        width="48"
-        height="48"
-        alt="NODEJS"
-      />
-      <br /><strong>NodeJS</strong>
-    </td>
-<!--     <td align="center" height="108" width="108">
-      <img
-        src="https://jsurt.github.io/jacks-portfolio/images/color-express-icon%20(1).png"
-        width="48"
-        height="48"
-        alt="EXPRESS"
-      />
-      <br /><strong>Express</strong>
-    </td>     -->
-    
-   
-  <tr>
-    <td>Databases</td>
-     <td align="center" height="108" width="108">
-      <img
-        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-        width="48"
-        height="48"
-        alt="FIREBASE"
-      />
-      <br /><strong>Firebase</strong>
-    </td>     
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/supabase-TAiY.png"
-        width="48"
-        height="48"
-        alt="SUPABASE"
-      />
-      <br /><strong>Supabase</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="MONGODB"
-      />
-      <br /><strong>MongoDB</strong>
-    </td>
-    <td align="center" height="108" width="108">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-          width="48"
-          height="48"
-          alt="POSTGRESQL"
-        />
-        <br /><strong>PostgreSQL</strong>
-      </td>
-      <td align="center" height="108" width="108">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-          width="48"
-          height="48"
-          alt="MYSQL"
-        />
-        <br /><strong>mySQL</strong>
-      </td>     
-  </tr>
-  <tr>
-    <td>Mobile Development</td>
-     <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png"
-        width="48"
-        height="48"
-        alt="FLUTTER"
-      />
-      <br /><strong>Flutter</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://camo.githubusercontent.com/9a45407f0a2a0c52f76b9458728049eca3ddb60ecec92a43f8cd2af93d253940/68747470733a2f2f7061676570726f2e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30332f72656163742d6e61746976652d6c6f676f2d333234783337352e706e67"
-        width="48"
-        height="48"
-        alt="REACT NATIVE"
-      />
-      <br /><strong>React Native</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn-icons-png.flaticon.com/512/732/732208.png"
-        width="48"
-        height="48"
-        alt="GOOGLE PLAY"
-      />
-      <br /><strong>Play Store</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://www.apple.com/v/app-store/b/images/overview/icon_appstore__ev0z770zyxoy_large_2x.png"
-        width="48"
-        height="48"
-        alt="APPSTORE"
-      />
-      <br /><strong>App Store</strong>
-    </td>
-  </tr>
-  
-  
-  <tr>
-    <td>Cloud</td>
-     <td align="center" height="108" width="108">
-      <img
-        src="https://www.zencos.com/wp-content/uploads/2021/11/aws-logo.png"
-        width="48"
-        height="48"
-        alt="AWS"
-      />
-      <br /><strong>AWS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google-cloud-platform.svg/2048px-Google-cloud-platform.svg.png"
-        width="48"
-        height="48"
-        alt="GCP"
-      />
-      <br /><strong>Google Cloud</strong>
-    </td>
-    <td align="center" height="108" width="108">
-        <img
-          src="https://gitlab.com/uploads/-/system/project/avatar/14379678/terraform.png"
-          width="48"
-          height="48"
-          alt="TERRAFORM"
-        />
-        <br /><strong>Terraform</strong>
-      </td>
-  </tr>
+- 🌱 **Currently**: Building Flutter+Firebase apps for small businesses
+- 🎓 **Education**: Web Dev Diploma + UI/UX Certification
+- 🏆 **GameDev**: 4 GameJams completed | Next: Ludum Dare 58!
+- 🏃‍♂️ **Runner's Life**: Building Ride.Tide.Stride to combine coding & fitness
+- 🏕️ **Hobbies**: Trail running, D&D campaigns, Lo-fi coding sessions
 
-  <!--<tr>
-    <td>Testing</td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-        width="48"
-        height="48"
-        alt="CYPRESS"
-      />
-      <br /><strong>Cypress</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/storybook.png"
-        width="48"
-        height="48"
-        alt="STORYBOOK"
-      />
-      <br /><strong>Storybook</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-        width="48"
-        height="48"
-        alt="JEST"
-      />
-      <br /><strong>Jest</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
-        width="48"
-        height="48"
-        alt="MOCHA"
-      />
-      <br /><strong>Mocha</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://p7.hiclipart.com/preview/626/247/761/mocha-javascript-node-js-test-driven-development-assertion-chai-sheng.jpg"
-        width="48"
-        height="48"
-        alt="CHAI"
-      />
-      <br /><strong>Chai</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cbabhusal.files.wordpress.com/2015/12/812ab30c5723956adcf8c1bbaf23e471143e1934.png"
-        width="48"
-        height="48"
-        alt="RSPEC"
-      />
-      <br /><strong>RSpec</strong>
-    </td>
-  </tr>  -->
-  
-  <tr>
-    <td>Game Dev & Design</td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Adobe_Illustrator_CS3_icon_mockup.svg/2048px-Adobe_Illustrator_CS3_icon_mockup.svg.png"
-        width="48"
-        height="48"
-        alt="ILLUSTRATOR"
-      />
-      <br /><strong>Illustrator</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-        width="48"
-        height="48"
-        alt="PHOTOSHOP"
-      />
-      <br /><strong>Photoshop</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/2101px-Adobe_InDesign_CC_icon.svg.png"
-        width="48"
-        height="48"
-        alt="INDESIGN"
-      />
-      <br /><strong>InDesign</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw"
-        width="48"
-        height="48"
-        alt="XD"
-      />
-      <br /><strong>AdobeXD</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
-        width="48"
-        height="48"
-        alt="FIGMA"
-      />
-      <br /><strong>Figma</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://i.imgur.com/4FEZwIp.png"
-        width="48"
-        height="48"
-        alt="GAMEMAKER"
-      />
-      <br /><strong>GameMaker</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://user-images.githubusercontent.com/9201005/61173208-81056980-a590-11e9-8211-41f841e9f8ca.png"
-        width="48"
-        height="48"
-        alt="UNITY"
-      />
-      <br /><strong>Unity</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg"
-        width="48"
-        height="48"
-        alt="KRITA"
-      />
-      <br /><strong>Krita</strong>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Version Control etc.</td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-        width="48"
-        height="48"
-        alt="LINUX"
-      />
-      <br /><strong>Linux</strong>
-    </td>
-    <td align="center" height="108" min-width="108">
-      <img
-        src="https://www.lindenwood.edu/files/resources/xcomptia-aplus-logo.png.pagespeed.ic.51sgZQp_Qo.png"
-        width="48"
-        height="48"
-        alt="COMPTIAA+"
-      />
-       <br /><strong>Comptia A+</strong>
-    </td>
-  </tr>   
-</table>
+---
 
-![](https://komarev.com/ghpvc/?username=T-Pirozzini&color=brightgreen)
+### 🛠️ Tech Stack
+
+<div align="center">
+
+#### 💻 **Core Languages**
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="typescript">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="dart">
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="csharp">
+
+#### 📱 **Mobile Development**
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="flutter">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="react native">
+
+#### 🌐 **Web Development**
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="react">
+<img src="https://img.shields.io/badge/Remix-000000?style=flat-square&logo=remix&logoColor=white" alt="remix">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="nextjs">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="tailwind">
+
+#### 🎮 **Game Development**
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="unity">
+<img src="https://img.shields.io/badge/GameMaker-000000?style=flat-square&logo=gamemaker&logoColor=white" alt="gamemaker">
+<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="blender">
+
+#### 🗃️ **Backend & Cloud**
+<img src="https://img.shields.io/badge/Firebase-FFA611?style=flat-square&logo=firebase&logoColor=white" alt="firebase">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="nodejs">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="postgresql">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="supabase">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="aws">
+
+#### 🎨 **Design Tools**
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="figma">
+<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" alt="xd">
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="photoshop">
+
+</div>
+
+---
+
+### 🌟 Featured Project
+
+<div align="center">
+
+#### 🏃‍♂️ **Ride.Tide.Stride (Strava V3 & OpenAI API's)**
+| | |
+|-|-|
+| 🚀 **Description** | Strava-integrated fitness challenge platform |
+| 💻 **Tech Stack** | Flutter, Firebase, Strava API, OpenAI |
+| 📲 **Links** | [Download](https://travis-pirozzini.fly.dev/rts) • [GitHub](#) |
+
+---
+
+#### 🎮 **Game Jam Highlights**
+| Game | Jam | Theme | Tech | Link |
+|------|-----|-------|------|------|
+| 🏴‍☠️ Stealing the Captain's Jewels | Ludum Dare 57 | "Depths" | Unity, C# | [Play](https://travis-pirozzini.fly.dev/familyJewels) |
+| 🎣 Fish Fighter | Ludum Dare 56 | "Tiny Creatures" | Unity, C# | [Play](https://travis-pirozzini.fly.dev/fishFighter) |
+| 👻 Soulo | GM48 | "Delivery" | GameMaker, GML | [Play](https://travis-pirozzini.fly.dev/soulo) |
+
+</div>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<!-- Compact Language Stats (Focused on Professional Skills) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t-pirozzini&layout=compact&hide=c%23,cmake,yacc,hlsl,shaderlab&theme=radical&exclude_repo=game-jam-repo-1,game-jam-repo-2&size_weight=0.5&count_weight=0.5&langs_count=10)](https://github.com/t-pirozzini)
+
+<!-- Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=t-pirozzini&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 📫 Let's Connect
+<p align="center">
+  <a href="mailto:tpirozzini@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
+  </a>
+  <a href="https://www.linkedin.com/in/travis-pirozzini/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  </a>
+  <a href="https://travis-pirozzini.fly.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" alt="portfolio">
+  </a>
+</p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://komarev.com/ghpvc/?username=T-Pirozzini&color=brightgreen" />
+</p>
